@@ -1,5 +1,5 @@
 _base_ = [
-    'mmseg::stdc/stdc1_4xb12-80k_cityscapes-512x1024.py' ,
+    'mmseg::stdc/stdc1_4xb12-80k_cityscapes-512x1024.py',
     # '../../deploy_cfgs/mmcls/classification_openvino_dynamic-224x224.py'
 ]
 
